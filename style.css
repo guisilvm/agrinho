@@ -1,0 +1,21 @@
+:root {
+    --cor-principal:#4e9944 ;
+}
+
+body{
+    background-color: var(--cor-principal);
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 1000px;
+    height: 300px;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-style: oblique;
+    font-weight: bold;
+}
